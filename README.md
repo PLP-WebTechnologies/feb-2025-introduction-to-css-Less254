@@ -14,6 +14,20 @@ Classes and IDs.
 Color and typography.
 Margins, paddings, and borders.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=mn, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Web development</h1>
+    <p id="basic">Understand the basics of CSS and its role in styling web pages.</p>
+    <img class="image" src="pexels-luis-gomes-166706-546819.jpg" alt="computer">
+</body>
+</html>
+
 body{
     background-color: #f0f0f0;
     margin: 0;
